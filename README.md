@@ -1,4 +1,7 @@
 # ICS344-Project
 ## Group 8
 |Name | ID |
-| :---: | | :---:|
+| :---: | :---:|
+| ABDULAZIZ ALSADRANI | 202159170 |
+| SAIFULLAH BUKHARI | 202177630 |
+| JAWAD ALSHABIB | 202157750 |
