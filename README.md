@@ -1,5 +1,5 @@
 # ICS344-Project
-## Group 8
+## Group 8, Section 3
 |Name | ID |
 | :---: | :---:|
 | ABDULAZIZ ALSADRANI | 202159170 |
